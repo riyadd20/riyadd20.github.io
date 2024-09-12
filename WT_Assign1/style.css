@@ -182,6 +182,7 @@ body{
 }
 
 .plan-col{
+  /* Reference from stackoverflow and chatgpt: line 186 - line 190 */
   background-image:
       linear-gradient(to right, rgba(216, 216, 216, 0.4) 1px, transparent 1px),
       linear-gradient(to bottom, rgba(216, 216, 216, 0.4) 1px, transparent 1px),
